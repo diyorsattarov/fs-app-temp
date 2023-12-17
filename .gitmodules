@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:diyooor/react-client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:diyooor/express-server.git
+[submodule "microservice"]
+	path = microservice
+	url = git@github.com:diyooor/docker-microservice.git
